@@ -43,7 +43,7 @@ SmartTaskManager/
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/your-username/SmartTaskManager.git
+git clone https://github.com/Nikhilesh796/SmartTaskManager.git
 cd SmartTaskManager
 ```
 
@@ -58,14 +58,6 @@ java SmartTaskManagerGUI
 ```
 
 🎉 The Smart Task Manager window will pop up!
-
----
-
-## 🖼️ Screenshots (Optional)
-
-| Add Task Window | Task List View |
-|:---------------:|:--------------:|
-| _[Insert Screenshot]_ | _[Insert Screenshot]_ |
 
 ---
 
