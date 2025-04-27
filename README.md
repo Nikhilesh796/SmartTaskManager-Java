@@ -63,11 +63,9 @@ java SmartTaskManagerGUI
 
 ## 🚀 Unique Highlights
 
-- Designed for **students and beginners** to learn Java GUI projects easily.
 - **No external libraries** required — 100% pure Java.
-- Great starting point to expand into larger apps like To-Do Apps, Reminders, or Calendar Managers.
 - Fully customizable — you can add Search, Sort, Notifications easily!
-- Perfect for mini-projects, internships, or portfolio building.
+
 
 ---
 
